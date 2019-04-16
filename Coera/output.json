@@ -1,0 +1,9 @@
+{
+ "output": {
+    "errorMessage" : "no error",
+    "holidayRightsPerYearList":[
+      {"year": "2019", "holidayDays": "10"},
+      {"year": "2020", "holidayDays": "11"}
+    ]
+ }
+}
